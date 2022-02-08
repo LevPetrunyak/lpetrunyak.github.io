@@ -1,1 +1,1 @@
-# lpetrunyak.github.io
+doc.github.io
